@@ -14,7 +14,7 @@ import android.widget.RelativeLayout;
  */
 public abstract class SlideUpAdapter extends RecyclerView.Adapter<SlideUpAdapter.BaseViewHolder> {
     private int mPosition;
-    private int mSlideUpPx=50;
+    private int mSlideUpPx=100;
     public static Object relativeTag=new Object();
     public SlideUpAdapter(){
     }
