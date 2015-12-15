@@ -11,6 +11,7 @@ My solution is add a space view above the Recyclerview item to occupy space. By 
 # Todo
 1. Improve code and add doc
 2. Add generic to some method
+3. Extends the animating type
 
 # Usage
 Extends SlideUpAdapter and BaseViewHolder as showed in app sample
@@ -52,7 +53,7 @@ public class MySlideUpAdapter extends SlideUpAdapter {
 # License
 
 
-    Copyright 2015 Kirsting
+    Copyright 2015 kirsting
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
